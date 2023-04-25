@@ -1,2 +1,2 @@
 # BuiltIn-Random-Generator-Tests-
-Tests for built in random generators in some famous programming languages
+Four statistical tests on normal distribution, correlation and independence for built in random generators in some famous programming languages
